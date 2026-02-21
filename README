@@ -1,0 +1,10 @@
+libcp - copy libraries of a binary into another root
+Why?
+  This program was created for people creating embedded Linux systems
+  that need libraries (sometimes static builds are not possible).
+  For quick prototyping, this is much faster.
+
+Usage:
+  libcp <binary> <root to copy to>
+
+by Redrose Linux - Unlicense
